@@ -134,6 +134,16 @@
     }
 }
 
+@media screen and (max-width:500px) {
+    .portfolio-page {
+        .image-box {
+            .btn {
+                padding: 0 18px;
+            }
+        }
+    }
+}
+
 @media screen and (max-width:960px) {
     .portfolio-page {
         width: 80%;

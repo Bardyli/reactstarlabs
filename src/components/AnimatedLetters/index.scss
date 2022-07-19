@@ -24,3 +24,9 @@
         animation-delay: calc($i / 10);
     }
 }
+
+@media screen and (max-width: 499px) {
+    .text-animate-hover {
+        font-size: 12vw;
+    }
+}
