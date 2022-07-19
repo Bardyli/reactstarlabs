@@ -34,7 +34,7 @@ const About = () => {
                 I love coding and learning design patterns through working with different frameworks. Coding for a while has taught me that it does not matter what the technology I will work with is because I will simply pick it up and learn it.
                 </p>
                 <p>
-                You can visit my <a href='https://www.ervinbehxheti.me'>LinkedIn</a> Profile for extra information, and also you can checkout my cv <a href='https://www.ervinbehxheti.me'>here</a>.
+                You can visit my <a href='https://www.linkedin.com/in/ervin-behxheti-9aa851244/' target='_blank' rel="noreferrer" >LinkedIn</a> Profile for extra information, and also you can checkout my cv <a href='https://resume.ervinbehxheti.me' target='_blank' rel="noreferrer">here</a>.
                 </p>
             </div>
 

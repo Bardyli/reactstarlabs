@@ -4,12 +4,12 @@
             "cover": "/portfolio/1/movie.png",
             "title": "Movie App",
             "description": "React, API",
-            "url": "https://react.ervinbehxheti.me",
+            "url": "https://movie.ervinbehxheti.me",
             "github": "https://github.com/Bardyli/reactprojekt"
         },
         {
             "cover": "/portfolio/1/login.png",
-            "title": "Login System",
+            "title": "Login Form",
             "description": "Node, Express, Jsx",
             "url": "https://node.ervinbehxheti.me",
             "github": "https://github.com/Bardyli/LoginSystem"
@@ -17,36 +17,36 @@
         {
             "cover": "/portfolio/1/comfy.png",
             "title": "E-Commerce Store",
-            "description": "HTML, CSS, JavaScript",
-            "url": "https://google.com",
+            "description": "HTML, CSS and JavaScript",
+            "url": "https://ecommerce.ervinbehxheti.me",
             "github": "https://github.com/Bardyli/shoppingcart"
         },
         {
             "cover": "/portfolio/1/portfolio.png",
             "title": "My Portfolio",
             "description": "React, JSON, EmailJS, SCSS",
-            "url": "https://google.com",
-            "github": "https://github.com/Bardyli/reactprojekt"
+            "url": "https://www.ervinbehxheti.me",
+            "github": "https://github.com/Bardyli/reactstarlabs"
         },
         {
             "cover": "/portfolio/1/list.png",
             "title": "To do list",
-            "description": "HTML, CSS, JavaScript",
-            "url": "https://google.com",
+            "description": "HTML, CSS and JavaScript",
+            "url": "https://list.ervinbehxheti.me",
             "github": "https://github.com/Bardyli/GroceryBud"
         },
         {
             "cover": "/portfolio/1/friends.png",
             "title": "Food and Coffee",
-            "description": "HTML, CSS, JavaScript",
-            "url": "projektet/friendscoffee/index.html",
+            "description": "HTML, CSS and JavaScript",
+            "url": "https://friends.ervinbehxheti.me",
             "github": "https://github.com/Bardyli/friendscofee"
         },
         {
             "cover": "/portfolio/1/memory.png",
             "title": "Memory Game",
             "description": "Javascript",
-            "url": "https://google.com",
+            "url": "https://memory.ervinbehxheti.me",
             "github": "https://github.com/Bardyli/memorygame"
         }
     ]
