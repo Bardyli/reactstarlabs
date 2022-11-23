@@ -1,0 +1,32 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/dashboard/dashboard.jpg",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind Jest",
+            "url": "http:google.com",
+            "github": ""
+        },
+        {
+            "cover": "/portfolio/ecommerce/ecommerce.jpg",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind Jest",
+            "url": "http:google.com",
+            "github": ""
+        },
+        {
+            "cover": "/portfolio/pokemon/pokemon.png",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind Jest",
+            "url": "http:google.com",
+            "github": ""
+        },
+        {
+            "cover": "/portfolio/tiktik/tiktik.jpg",
+            "title": "GGWP",
+            "description": "React, JSX, Tailwind Jest",
+            "url": "http:google.com",
+            "github": ""
+        }
+    ]
+}
