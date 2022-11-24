@@ -4,6 +4,7 @@
     width: calc(100% - 150px);
     position: initial;
     height: 100%;
+    overflow-y: scroll;
 
     h1.page-title {
         margin-left: 100px;
@@ -157,19 +158,22 @@
                 );
                 bottom: -10px;
             }
+
+            .description {
+                margin-bottom: -10px;
+            }
         }
     }
 }
 
 @media only screen and (max-width: 850px) and (min-width: 451px) {
-    .tags,.top-tags {
-        display: none;
-    }
 
     .container.portfolio-page {
         width: 100%;
         padding: 20px;
         box-sizing: border-box;
+        position: initial;
+        overflow-y: hidden;
 
         h1.page-title {
             margin-left: 20px;
@@ -188,3 +192,8 @@
     }
 }
 
+@media only screen and (max-width: 966px) {
+    .tags,.top-tags {
+        display: none;
+    }
+}
