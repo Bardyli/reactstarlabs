@@ -25,13 +25,13 @@ const About: React.FC = () => {
                 <AnimatedLetters letterClass={letterClass} strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']} idx={15}/>
             </h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, nam! Ut, fugiat tenetur? Hic ea pariatur esse deleniti magni iure!
+                I'm a very ambitious Front-End Developer looking for a role in established IT Company with the opportunity to work with the latest technologies on challenging and diverse projects.
             </p>
             <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minus pariatur rem cupiditate quo porro optio fugiat reiciendis dolorum esse nihil.
+                I'm quietly confident, naturally curious, disciplined, consistent and perpetually working on improving my skills, one problem at a time or five (I solve them all) !!
             </p>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor maiores aliquam nesciunt laboriosam labore hic odio nisi recusandae non expedita.
+                I Love Teamwork and Communicating, as a Self Taught I realized the importance of working together to solve problems.
             </p>
         </div>
 

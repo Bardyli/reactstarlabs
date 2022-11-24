@@ -2,31 +2,38 @@
     "portfolio": [
         {
             "cover": "/portfolio/dashboard/dashboard.jpg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind Jest",
-            "url": "http:google.com",
-            "github": ""
+            "title": "Dashboard",
+            "description": "React, Typescript, Syncfusion, Apps and Charts,Fully Responsive",
+            "url": "https://react-typescript-syncfusion-dashboard.vercel.app",
+            "github": "https://github.com/Bardyli/react_typescript_syncfusion_dashboard"
         },
         {
             "cover": "/portfolio/ecommerce/ecommerce.jpg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind Jest",
-            "url": "http:google.com",
-            "github": ""
+            "title": "E-Commerce",
+            "description": "Next.Js, Typescript, Sanity (create,delete products through its database) Payment Options with Stripe, Fully Responsive",
+            "url": "https://next-typescript-ecommerce-sanity-stripe-wggq-2kpcjekr2-bardyli.vercel.app",
+            "github": "https://github.com/Bardyli/next_typescript_ecommerce_sanity_stripe"
         },
         {
             "cover": "/portfolio/pokemon/pokemon.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind Jest",
-            "url": "http:google.com",
-            "github": ""
+            "title": "Not Pokemon",
+            "description": "2D JS Canvas Game, walk on a map, interact with NPC's, fighting scenes, background music, not responsive",
+            "url": "https://pokemon-kappa-eosin.vercel.app/",
+            "github": "https://github.com/Bardyli/pokemon"
         },
         {
             "cover": "/portfolio/tiktik/tiktik.jpg",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind Jest",
-            "url": "http:google.com",
-            "github": ""
+            "title": "Social Media",
+            "description": "Next.Js, Typescript, Sanity (create,delete posts or users through its database), Google Authentication, Search Filter, Fully Responsive",
+            "url": "https://tiktik-03.vercel.app",
+            "github": "https://github.com/Bardyli/next_typescript_googleauth_socialmedia"
+        },
+        {
+            "cover": "/portfolio/portfolio/portfolio.png",
+            "title": "My Portfolio",
+            "description": "React, Typescript and EmailJs",
+            "url": "https://tiktik-03.vercel.app",
+            "github": "https://github.com/Bardyli/reactportfolio"
         }
     ]
 }

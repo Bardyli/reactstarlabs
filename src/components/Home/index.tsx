@@ -34,7 +34,7 @@ const Home: React.FC = () => {
             <br />
             <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={15} />
             </h1>
-            <h2>Frontend Developer / Typescript Expert</h2>
+            <h2>Self-Taught Frontend Developer / Typescript Expert</h2>
             <Link to='/contact' className='flat-button'>Contact me</Link>
             <Link to='/portfolio' className='flat-button'>My Projects</Link>
         </div>

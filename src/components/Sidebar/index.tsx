@@ -40,12 +40,12 @@ const Sidebar: React.FC = () => {
       </nav>
       <ul>
         <li>
-          <a target='_blank' rel='noreferrer' href=''>
+          <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/ervin-behxheti-9aa851244/'>
             <FontAwesomeIcon icon={faLinkedin} color='#4d4d4e' />
           </a>
         </li>
         <li>
-          <a target='_blank' rel='noreferrer' href=''>
+          <a target='_blank' rel='noreferrer' href='https://github.com/Bardyli'>
             <FontAwesomeIcon icon={faGithub} color='#4d4d4e' />
           </a>
         </li>

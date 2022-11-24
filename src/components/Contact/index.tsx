@@ -1,4 +1,4 @@
-import React, { FormHTMLAttributes, useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Loader from 'react-loaders';
 import AnimatedLetters from '../AnimatedLetters';
 import './index.scss';
@@ -21,26 +21,19 @@ const Contact = () => {
       }, 4000)
     }
   }, [])
+    
 
-  const sendEmail = (e: React.FormEvent) => {
-    e.preventDefault()
-
-    emailjs
-        .sendForm(
-            'gmail',
-            'template_1ju4mdt',
-            refForm.current,
-            'service_brrf38i'
-        ).then(
-            () => {
-                alert('Message successfully sent!')
-                window.location.reload()
-            },
-            () => {
-                alert('Failed to send the message, please try again')
-            }
-        )
-  }
+    const sendEmail = (e: any) => {
+        e.preventDefault();
+    
+        emailjs.sendForm('service_gb938z2', 'template_nglhobq', e.target , 'iJJY3Fi8htA_G9KjB')
+            .then((result) => {
+            console.log(result.text);
+            }, (error) => {
+            console.log(error.text);
+        });
+        e.target.reset();
+    };
 
   return (
     <>
@@ -53,7 +46,7 @@ const Contact = () => {
                         idx={15}/>
                 </h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit dolorem aliquid fugiat similique neque placeat molestias, officia laborum inventore doloribus.
+                    I am interested in freelance opportunities - especially ambitious or large projects.However, if you have other request or question, don't hesitate to contact me using the form below.
                 </p>
                 <div className='contact-form'>
                     <form ref={refForm} onSubmit={sendEmail}>
