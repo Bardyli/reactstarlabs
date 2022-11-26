@@ -30,6 +30,9 @@ const Sidebar: React.FC = () => {
         <NavLink to='/portfolio' className='portfolio-link' onClick={() => setShowNav(false)}>
           <FontAwesomeIcon icon={faSuitcase} color='#4d4d4e' />
         </NavLink>
+        <a target='_blank' rel='noreferrer' href='https://resume-five-indol.vercel.app/' className='resume-link' onClick={() => setShowNav(false)}>
+          <FontAwesomeIcon icon={faSheetPlastic} color='#4d4d4e' />
+        </a>
         <FontAwesomeIcon 
           onClick={() => setShowNav(false)}
           icon={faClose}
