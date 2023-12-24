@@ -36,7 +36,7 @@ const About: React.FC = () => {
             />
           </h1>
           <p>
-            Front-end developer with 1.3+ years of experience in ReactJS,
+            Front-end developer with nearly over 2 years of professional experience in ReactJS,
             NextJS, NodeJS, Git, MongoDB, CSS, and HTML. Proven ability to
             optimize code, improve page speed, and implement SEO best practices.
             Ambitious and self-motivated, with a passion for learning and
